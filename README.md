@@ -5,7 +5,7 @@ requirements: `pip install markdown`
 
 how to run: `python generate.py`
 
-how it works: write your posts in markdown format inside the /posts folder. run the script and watch the static site be generated. super simple and fast.
+how it works: write your posts in markdown format inside the /posts folder. run the script and watch the static site be generated. outputs html files (style.css is not being generated) in the /output folder. super simple and fast.
 
 how it looks:
 
